@@ -10,4 +10,5 @@ dependencies = [
     "nbconvert>=7.17.2",
     "nbformat>=5.11.1",
     "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
 ]

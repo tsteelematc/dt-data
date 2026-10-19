@@ -1,0 +1,797 @@
+[
+    {
+        "ts": "2026-09-25T16:14:31.965Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-09-25T16:14:31.965Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "start": "2026-09-25T16:14:28.723Z",
+            "winner": "Tom",
+            "end": "2026-09-25T16:14:31.965Z",
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Headless Horseman"
+                },
+                {
+                    "hero": "Pale Lady",
+                    "name": "Tom"
+                }
+            ]
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-09-25T16:14:31.965Z"
+    },
+    {
+        "ts": "2026-09-25T16:14:44.167Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-09-25T16:14:44.167Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "start": "2026-09-25T16:14:42.179Z",
+            "end": "2026-09-25T16:14:44.167Z",
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Headless Horseman"
+                },
+                {
+                    "name": "Tom",
+                    "hero": "Pale Lady"
+                }
+            ],
+            "winner": "Josh"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-09-25T16:14:44.167Z"
+    },
+    {
+        "ts": "2026-09-25T16:59:29.228Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-09-25T16:59:29.228Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "end": "2026-09-25T16:59:29.228Z",
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Scarlet Witch"
+                },
+                {
+                    "name": "Tom",
+                    "hero": "Spiderman"
+                }
+            ],
+            "start": "2026-09-25T16:59:27.516Z",
+            "winner": "Tom"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-09-25T16:59:29.228Z"
+    },
+    {
+        "ts": "2026-09-25T16:59:45.714Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-09-25T16:59:45.714Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "end": "2026-09-25T16:59:45.714Z",
+            "winner": "Tom",
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Loki"
+                },
+                {
+                    "hero": "Spiderman",
+                    "name": "Tom"
+                }
+            ],
+            "start": "2026-09-25T16:59:44.150Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-09-25T16:59:45.714Z"
+    },
+    {
+        "ts": "2026-09-25T16:59:55.069Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-09-25T16:59:55.069Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "winner": "Tom",
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Loki"
+                },
+                {
+                    "hero": "Spiderman",
+                    "name": "Tom"
+                }
+            ],
+            "end": "2026-09-25T16:59:55.069Z",
+            "start": "2026-09-25T16:59:53.445Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-09-25T16:59:55.069Z"
+    },
+    {
+        "ts": "2026-10-02T17:23:12.228Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-02T17:23:12.228Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "start": "2026-10-02T17:23:08.758Z",
+            "end": "2026-10-02T17:23:12.228Z",
+            "winner": "Josh",
+            "players": [
+                {
+                    "name": "Anna",
+                    "hero": "Loki"
+                },
+                {
+                    "name": "Josh",
+                    "hero": "Scarlet Witch"
+                }
+            ]
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-02T17:23:12.228Z"
+    },
+    {
+        "ts": "2026-10-02T18:10:17.071Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-02T18:10:17.071Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Thor"
+                },
+                {
+                    "hero": "Ninja",
+                    "name": "Tom"
+                }
+            ],
+            "winner": "Josh",
+            "start": "2026-10-02T17:30:07.702Z",
+            "end": "2026-10-02T18:10:17.071Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-02T18:10:17.071Z"
+    },
+    {
+        "ts": "2026-10-02T18:49:36.757Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-02T18:49:36.757Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Headless Horseman"
+                },
+                {
+                    "hero": "Spiderman",
+                    "name": "Tom"
+                }
+            ],
+            "start": "2026-10-02T18:14:05.343Z",
+            "end": "2026-10-02T18:49:36.757Z",
+            "winner": "Josh"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-02T18:49:36.757Z"
+    },
+    {
+        "ts": "2026-10-02T20:01:49.523Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-02T20:01:49.523Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "start": "2026-10-02T18:55:22.732Z",
+            "winner": "Tom",
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Spiderman"
+                },
+                {
+                    "hero": "Thor",
+                    "name": "Tom"
+                }
+            ],
+            "end": "2026-10-02T20:01:49.523Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-02T20:01:49.523Z"
+    },
+    {
+        "ts": "2026-10-07T00:29:19.794Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-07T00:29:19.794Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "players": [
+                {
+                    "hero": "Pale Lady",
+                    "name": "Anna"
+                },
+                {
+                    "hero": "Loki",
+                    "name": "Josh"
+                }
+            ],
+            "end": "2026-10-07T00:29:19.794Z",
+            "winner": "Josh",
+            "start": "2026-10-06T23:42:19.537Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-07T00:29:19.794Z"
+    },
+    {
+        "ts": "2026-10-09T19:26:55.349Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-09T19:26:55.349Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "winner": "Tom",
+            "end": "2026-10-09T19:26:55.349Z",
+            "start": "2026-10-09T18:47:33.961Z",
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Loki"
+                },
+                {
+                    "hero": "Samurai",
+                    "name": "Tom"
+                }
+            ]
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-09T19:26:55.349Z"
+    },
+    {
+        "ts": "2026-10-09T20:06:19.581Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-09T20:06:19.581Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Loki"
+                },
+                {
+                    "hero": "Spiderman",
+                    "name": "Tom"
+                }
+            ],
+            "start": "2026-10-09T19:30:42.226Z",
+            "winner": "Josh",
+            "end": "2026-10-09T20:06:19.581Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-09T20:06:19.581Z"
+    },
+    {
+        "ts": "2026-10-09T20:42:25.182Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-09T20:42:25.182Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "players": [
+                {
+                    "hero": "Headless Horseman",
+                    "name": "Josh"
+                },
+                {
+                    "name": "Tom",
+                    "hero": "Samurai"
+                }
+            ],
+            "start": "2026-10-09T20:12:12.286Z",
+            "end": "2026-10-09T20:42:25.182Z",
+            "winner": "Josh"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-09T20:42:25.182Z"
+    },
+    {
+        "ts": "2026-10-10T15:15:40.056Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-10T15:15:40.056Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "players": [
+                {
+                    "name": "Anna",
+                    "hero": "Headless Horseman"
+                },
+                {
+                    "hero": "Gunslinger",
+                    "name": "Josh"
+                }
+            ],
+            "end": "2026-10-10T15:15:40.056Z",
+            "winner": "Josh",
+            "start": "2026-10-10T14:39:15.468Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-10T15:15:40.056Z"
+    },
+    {
+        "ts": "2026-10-11T22:28:57.534Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-11T22:28:57.534Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "winner": "Josh",
+            "start": "2026-10-11T21:09:52.249Z",
+            "players": [
+                {
+                    "name": "Anna",
+                    "hero": "Sun Elf"
+                },
+                {
+                    "hero": "Moon Elf",
+                    "name": "Josh"
+                }
+            ],
+            "end": "2026-10-11T22:28:57.534Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-11T22:28:57.534Z"
+    },
+    {
+        "ts": "2026-10-12T00:42:32.285Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-12T00:42:32.285Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "winner": "Josh",
+            "players": [
+                {
+                    "hero": "Pale Lady",
+                    "name": "Anna"
+                },
+                {
+                    "name": "Josh",
+                    "hero": "Samurai"
+                }
+            ],
+            "start": "2026-10-12T00:17:17.055Z",
+            "end": "2026-10-12T00:42:32.285Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-12T00:42:32.285Z"
+    },
+    {
+        "ts": "2026-10-14T00:39:41.420Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-14T00:39:41.420Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "start": "2026-10-14T00:12:56.878Z",
+            "end": "2026-10-14T00:39:41.420Z",
+            "winner": "Anna",
+            "players": [
+                {
+                    "hero": "Moon Elf",
+                    "name": "Anna"
+                },
+                {
+                    "hero": "Samurai",
+                    "name": "Josh"
+                }
+            ]
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-14T00:39:41.420Z"
+    },
+    {
+        "ts": "2026-10-16T17:58:59.024Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-16T17:58:59.024Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "end": "2026-10-16T17:58:59.024Z",
+            "players": [
+                {
+                    "hero": "Moon Elf",
+                    "name": "Josh"
+                },
+                {
+                    "hero": "Sun Elf",
+                    "name": "Tom"
+                }
+            ],
+            "start": "2026-10-16T17:20:36.641Z",
+            "winner": "Josh"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-16T17:58:59.024Z"
+    },
+    {
+        "ts": "2026-10-16T18:47:32.523Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-16T18:47:32.523Z",
+        "user": "Joshua105@yahoo.com",
+        "pk": "joshua105@yahoo.com",
+        "game": {
+            "end": "2026-10-16T18:47:32.523Z",
+            "players": [
+                {
+                    "hero": "Treant",
+                    "name": "Josh"
+                },
+                {
+                    "hero": "Pale Lady",
+                    "name": "Tom"
+                }
+            ],
+            "start": "2026-10-16T18:03:10.296Z",
+            "winner": "Josh"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-16T18:47:32.523Z"
+    }
+]
+
+[
+    {
+        "ts": "2026-09-25T16:14:31.965Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-09-25T16:14:31.965Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "end": "2026-09-25T16:14:31.965Z",
+            "players": [
+                {
+                    "hero": "Headless Horseman",
+                    "name": "Josh"
+                },
+                {
+                    "name": "Tom",
+                    "hero": "Pale Lady"
+                }
+            ],
+            "winner": "Tom",
+            "start": "2026-09-25T16:14:28.723Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-09-25T16:14:31.965Z"
+    },
+    {
+        "ts": "2026-09-25T16:14:44.167Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-09-25T16:14:44.167Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "end": "2026-09-25T16:14:44.167Z",
+            "start": "2026-09-25T16:14:42.179Z",
+            "players": [
+                {
+                    "hero": "Headless Horseman",
+                    "name": "Josh"
+                },
+                {
+                    "name": "Tom",
+                    "hero": "Pale Lady"
+                }
+            ],
+            "winner": "Josh"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-09-25T16:14:44.167Z"
+    },
+    {
+        "ts": "2026-09-25T16:59:29.228Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-09-25T16:59:29.228Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "start": "2026-09-25T16:59:27.516Z",
+            "players": [
+                {
+                    "hero": "Scarlet Witch",
+                    "name": "Josh"
+                },
+                {
+                    "hero": "Spiderman",
+                    "name": "Tom"
+                }
+            ],
+            "winner": "Tom",
+            "end": "2026-09-25T16:59:29.228Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-09-25T16:59:29.228Z"
+    },
+    {
+        "ts": "2026-09-25T16:59:45.714Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-09-25T16:59:45.714Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "start": "2026-09-25T16:59:44.150Z",
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Loki"
+                },
+                {
+                    "hero": "Spiderman",
+                    "name": "Tom"
+                }
+            ],
+            "end": "2026-09-25T16:59:45.714Z",
+            "winner": "Tom"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-09-25T16:59:45.714Z"
+    },
+    {
+        "ts": "2026-09-25T16:59:55.069Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-09-25T16:59:55.069Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "start": "2026-09-25T16:59:53.445Z",
+            "end": "2026-09-25T16:59:55.069Z",
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Loki"
+                },
+                {
+                    "hero": "Spiderman",
+                    "name": "Tom"
+                }
+            ],
+            "winner": "Tom"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-09-25T16:59:55.069Z"
+    },
+    {
+        "ts": "2026-09-27T19:57:51.178Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-09-27T19:57:51.178Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "start": "2026-09-27T19:48:32.016Z",
+            "winner": "Tom",
+            "players": [
+                {
+                    "hero": "Ninja",
+                    "name": "Taylor"
+                },
+                {
+                    "name": "Tom",
+                    "hero": "Pale Lady"
+                }
+            ],
+            "end": "2026-09-27T19:57:51.178Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-09-27T19:57:51.178Z"
+    },
+    {
+        "ts": "2026-10-02T18:10:17.071Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-02T18:10:17.071Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "start": "2026-10-02T17:30:07.702Z",
+            "end": "2026-10-02T18:10:17.071Z",
+            "players": [
+                {
+                    "hero": "Thor",
+                    "name": "Josh"
+                },
+                {
+                    "hero": "Ninja",
+                    "name": "Tom"
+                }
+            ],
+            "winner": "Josh"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-02T18:10:17.071Z"
+    },
+    {
+        "ts": "2026-10-02T18:49:36.757Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-02T18:49:36.757Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "end": "2026-10-02T18:49:36.757Z",
+            "winner": "Josh",
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Headless Horseman"
+                },
+                {
+                    "hero": "Spiderman",
+                    "name": "Tom"
+                }
+            ],
+            "start": "2026-10-02T18:14:05.343Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-02T18:49:36.757Z"
+    },
+    {
+        "ts": "2026-10-02T20:01:49.523Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-02T20:01:49.523Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Spiderman"
+                },
+                {
+                    "name": "Tom",
+                    "hero": "Thor"
+                }
+            ],
+            "winner": "Tom",
+            "end": "2026-10-02T20:01:49.523Z",
+            "start": "2026-10-02T18:55:22.732Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-02T20:01:49.523Z"
+    },
+    {
+        "ts": "2026-10-09T19:26:55.349Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-09T19:26:55.349Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "winner": "Tom",
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Loki"
+                },
+                {
+                    "name": "Tom",
+                    "hero": "Samurai"
+                }
+            ],
+            "start": "2026-10-09T18:47:33.961Z",
+            "end": "2026-10-09T19:26:55.349Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-09T19:26:55.349Z"
+    },
+    {
+        "ts": "2026-10-09T20:06:19.581Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-09T20:06:19.581Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "end": "2026-10-09T20:06:19.581Z",
+            "winner": "Josh",
+            "players": [
+                {
+                    "hero": "Loki",
+                    "name": "Josh"
+                },
+                {
+                    "hero": "Spiderman",
+                    "name": "Tom"
+                }
+            ],
+            "start": "2026-10-09T19:30:42.226Z"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-09T20:06:19.581Z"
+    },
+    {
+        "ts": "2026-10-09T20:42:25.182Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-09T20:42:25.182Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "start": "2026-10-09T20:12:12.286Z",
+            "end": "2026-10-09T20:42:25.182Z",
+            "winner": "Josh",
+            "players": [
+                {
+                    "name": "Josh",
+                    "hero": "Headless Horseman"
+                },
+                {
+                    "hero": "Samurai",
+                    "name": "Tom"
+                }
+            ]
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-09T20:42:25.182Z"
+    },
+    {
+        "ts": "2026-10-16T17:58:59.024Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-16T17:58:59.024Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "end": "2026-10-16T17:58:59.024Z",
+            "players": [
+                {
+                    "hero": "Moon Elf",
+                    "name": "Josh"
+                },
+                {
+                    "hero": "Sun Elf",
+                    "name": "Tom"
+                }
+            ],
+            "start": "2026-10-16T17:20:36.641Z",
+            "winner": "Josh"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-16T17:58:59.024Z"
+    },
+    {
+        "ts": "2026-10-16T18:47:32.523Z",
+        "app": "tca-dice-throne-26s",
+        "gsi1sk": "2026-10-16T18:47:32.523Z",
+        "user": "tsteele@madisoncollege.edu",
+        "pk": "tsteele@madisoncollege.edu",
+        "game": {
+            "end": "2026-10-16T18:47:32.523Z",
+            "players": [
+                {
+                    "hero": "Treant",
+                    "name": "Josh"
+                },
+                {
+                    "hero": "Pale Lady",
+                    "name": "Tom"
+                }
+            ],
+            "start": "2026-10-16T18:03:10.296Z",
+            "winner": "Josh"
+        },
+        "gsi1pk": "tca-dice-throne-26s",
+        "sk": "tca-dice-throne-26s#2026-10-16T18:47:32.523Z"
+    }
+]
